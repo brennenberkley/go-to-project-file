@@ -1,7 +1,9 @@
 {
 	"name": "go-to-project-file",
 	"displayName": "Go to Project File",
-	"description": "Extends the built in 'Go to File' functionality adding the ability to filter by project",
+  "description": "Extends the built in 'Go to File' functionality adding the ability to filter by project",
+  "author:": "Brennen Berkley",
+  "publisher": "brennenberkley",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.32.0"
